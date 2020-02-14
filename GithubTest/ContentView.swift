@@ -8,6 +8,8 @@
 
 import SwiftUI
 
+private let test = 0
+
 private let dateFormatter: DateFormatter = {
     let dateFormatter = DateFormatter()
     dateFormatter.dateStyle = .medium
