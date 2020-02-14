@@ -8,7 +8,8 @@
 
 import SwiftUI
 
-private let test = 0
+private let test    = 0
+private let test1   = 1
 
 private let dateFormatter: DateFormatter = {
     let dateFormatter = DateFormatter()
